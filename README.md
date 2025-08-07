@@ -1,8 +1,12 @@
 🎀 Ursinhos da Sabbz – Repositório criado como atividade avaliativa de Metodologias Ágeis (Scrum).
+
 🎀 Projeto desenvolvido individualmente por Sabrina de Andrade, com uma equipe fictícia simulada.
+
 🎀 Composto por 22 Sprints que documentam todas as etapas do desenvolvimento.
 
+
 🎀 Descrição do Repositório🎀
+
 Loja virtual desenvolvida com HTML, CSS e JavaScript puro, focada em produtos inspirados no universo Hello Kitty.
 Este projeto simula um sistema real de e-commerce, com funcionalidades como:
 
@@ -18,7 +22,7 @@ O desenvolvimento seguiu os princípios da Metodologia Ágil Scrum, estruturado 
 👩‍💻 Autoria do Projeto
 Este projeto foi criado e desenvolvido por:
 
-Sabrina de Andrade – JavaScript, estrutura geral, idealização, documentação e participação em todas as áreas
+🎀Sabrina de Andrade – JavaScript, estrutura geral, idealização, documentação e participação em todas as áreas
 
 Equipe fictícia:
 
@@ -45,7 +49,6 @@ Simulado com array em JavaScript
 📌 Metodologia: Scrum
 🗂️ Organização visual: Kanban mental
 
-🏁 Sprints Detalhadas
 
 🎀 Sprint 1 e 2: Estrutura inicial do site
 Taciane e Yagho criaram o esqueleto da página com cabeçalho, navegação e barra de pesquisa.
