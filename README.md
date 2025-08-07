@@ -1,82 +1,115 @@
-ESSE README É UMA ATIVIDADE AVALIATIVA SOBRE METODOLOGIAS SCRUM, ONDE IDEALIZAMOS UMA EQUIPE FICTÍCIA PARA A CRIAÇÃO DE UM PROJETO. NESSE CASO, O PROJETO NÃO É FICTÍCIO, ELE FOI CRIADO APENAS POR MIM, SABRINA DE ANDRADE.
+🎀 Ursinhos da Sabbz – Repositório criado como atividade avaliativa de Metodologias Ágeis (Scrum).
+🎀 Projeto desenvolvido individualmente por Sabrina de Andrade, com uma equipe fictícia simulada.
+🎀 Composto por 22 Sprints que documentam todas as etapas do desenvolvimento.
 
-🎀 Ursinhos da Sabbz 🎀
+🎀 Descrição do Repositório🎀
+Loja virtual desenvolvida com HTML, CSS e JavaScript puro, focada em produtos inspirados no universo Hello Kitty.
+Este projeto simula um sistema real de e-commerce, com funcionalidades como:
 
-👥 A Equipe
+🧺 Carrinho de compras
+📦 Controle de estoque
+🎯 Filtro por categoria
+🔍 Pesquisa de produtos
+💳 Finalização de pedido
+🎨 Layout responsivo e visual fofo
 
-* Sabrina de Andrade (A idealizadora, com foco em JavaScript e envolvimento em todas as etapas)
-* Taciane Steuck (Focada em HTML)
-* Yagho Cerutti (Focado em HTML)
-* Camille Tomio (Focada em CSS)
+O desenvolvimento seguiu os princípios da Metodologia Ágil Scrum, estruturado em 22 Sprints documentadas.
 
-🧠 A Ideia
+👩‍💻 Autoria do Projeto
+Este projeto foi criado e desenvolvido por:
 
-Criamos a "Ursinhos da Sabbz", uma loja online feita com HTML, CSS e JavaScript puro. A loja tem 30 pelúcias inspiradas na Hello Kitty e seus amigos. Desenvolvemos o projeto com a metodologia ágil, dividindo tudo em sprints.
+Sabrina de Andrade – JavaScript, estrutura geral, idealização, documentação e participação em todas as áreas
 
-💻 O que usamos
+Equipe fictícia:
 
-Front-end
+Taciane Steuck – HTML
+Yagho Cerutti – HTML
+Camille Tomio – CSS
 
-* HTML5
-* CSS3
-* Bootstrap 5.3
-* JavaScript
+⚙️ Tecnologias Utilizadas
 
-Back-end
+💻 Front-end
+HTML5
+CSS3
+JavaScript
+Bootstrap 5.3
 
-Simulado com JavaScript puro
+🔧 Back-end
+Simulado com JavaScript
 
-Banco de Dados
+🗄️ Banco de Dados
+Simulado com array em JavaScript
 
-Simulado com um array em JavaScript
+📊 Quantidade Total de Sprints
+✅ Total: 22 Sprints
+📌 Metodologia: Scrum
+🗂️ Organização visual: Kanban mental
 
-📦 Sprints: Onde tudo aconteceu
+🏁 Sprints Detalhadas
 
-Dividimos o projeto em 22 sprints para manter tudo organizado e com entregas rápidas.
-
-Sprint 1 e 2: Estrutura inicial do site
+🎀 Sprint 1 e 2: Estrutura inicial do site
 Taciane e Yagho criaram o esqueleto da página com cabeçalho, navegação e barra de pesquisa.
+Data: 01/08/2025 – 01/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 3: Bootstrap no ar
+🎀 Sprint 3: Bootstrap no ar
 Sabrina incluiu o Bootstrap para garantir que o site fosse responsivo.
+Data: 01/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 4: Estilo fofo com CSS
-Camille deu um toque especial ao site, usando um tema rosa, com bordas suaves e fontes arredondadas.
+🎀 Sprint 4: Estilo fofo com CSS
+Camille aplicou o estilo rosa claro, bordas suaves e fontes arredondadas.
+Data: 02/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 5 e 6: Produtos à vista
+🎀 Sprint 5 e 6: Produtos à vista
 Sabrina criou o array com 30 ursinhos e a função para exibi-los na página.
+Data: 02/08/2025 – 03/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 7: Cards de produtos
+🎀 Sprint 7: Cards de produtos
 Camille e Sabrina estilizaram os cards com imagens, nome, preço e botão.
+Data: 03/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 8 a 11: A mágica do carrinho
+🎀 Sprint 8 a 11: A mágica do carrinho
 Sabrina desenvolveu a lógica para adicionar, remover e controlar o estoque dos produtos.
+Data: 03/08/2025 – 04/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 12 a 14: Filtros e mensagens
-Sabrina implementou a busca e os filtros por categoria, além de mensagens de feedback como "Produto sem estoque" ou "Carrinho vazio".
+🎀 Sprint 12 a 14: Filtros e mensagens
+Sabrina implementou a busca e os filtros por categoria, além de mensagens como "Produto sem estoque" ou "Carrinho vazio".
+Data: 04/08/2025 – 05/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 15: Finalizando a compra
+🎀 Sprint 15: Finalizando a compra
 Sabrina programou a função que finaliza a compra, esvazia o carrinho e mostra uma mensagem de sucesso.
+Data: 05/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 16 a 18: Refinamentos
+🎀 Sprint 16 a 18: Refinamentos
 Yagho e Taciane adicionaram o rodapé com os contatos.
-Camille ajustou as imagens e o estilo dos botões para um visual mais coeso.
+Camille ajustou as imagens e o estilo dos botões.
+Data: 05/08/2025 – 06/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Sprint 19 a 22: Finalização
+🎀 Sprint 19 a 22: Finalização
 Sabrina garantiu a responsividade total do site.
-Camille revisou o CSS para deixar tudo perfeito.
-Sabrina realizou os testes finais em diferentes navegadores e escreveu a documentação do projeto, incluindo este documento.
+Camille revisou o CSS.
+Sabrina realizou os testes finais e escreveu a documentação.
+Data: 06/08/2025 – 07/08/2025
+Verificação e testes: Sabrina de Andrade
 
-Vantagens e Dificuldades da Metodologia Ágil
+🧠 Resumo da Metodologia Ágil
 
-Vantagens:
+✅ Vantagens
+📌 Organização clara em sprints facilitou a divisão de tarefas
+🚀 Entregas rápidas e testáveis a cada ciclo
+📅 Melhor planejamento, mesmo com prazos curtos
 
-* A organização em sprints ajudou a dividir e gerenciar as tarefas.
-* Foi possível testar e corrigir problemas rapidamente.
-* Facilitou o planejamento do projeto, mesmo com o prazo apertado.
+⚠️ Dificuldades
+💬 A comunicação (mesmo simulada) exigiu organização e sincronia
+🗃️ Manter arquivos atualizados foi desafiador
+🎀 Fazer com que todos cumprissem a data de entrega
+⏰ Gerenciar tempo entre funções técnicas e visuais demandou atenção
 
-Dificuldades:
-
-* A comunicação constante entre a equipe foi essencial, mas desafiadora.
-* Manter a organização dos arquivos exigiu muita disciplina.
-* Equilibrar o tempo entre as diferentes áreas do projeto foi um desafio para todos.
